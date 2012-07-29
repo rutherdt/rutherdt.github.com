@@ -1,0 +1,13 @@
+<hgroup>
+  <h1><a id="logo" href="/" rel="home" >Ruth Erdt</a></h1>
+  {% if page.label %}
+    <h2>{{ page.label }}</h2>
+  {% endif %}
+</hgroup>
+<nav class="meta">
+<ul class="work">
+  <li><a {% if page.url == '/index.html' %}class="selected"{% endif %} href="/" title="home">Work</a></li>
+  <li><a {% if page.title == 'Bio' %}class="selected"{% endif %} href="/about/" title="about">About</a></li>
+  <li><a {% if page.title == 'Contact' %}class="selected"{% endif %}href="/contact/" title="contact">Contact</a></li>
+</ul>
+</nav>

@@ -1,0 +1,12 @@
+title: Ruth Erdt
+author: Ruth Erdt
+email: ruth@erdt.ch
+url: http://www.erdt.ch
+permalink: /:title
+exclude:
+  tasks
+  src
+  original
+  build
+  config.rb
+  README.textile

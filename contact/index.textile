@@ -1,0 +1,14 @@
+---
+layout: post
+title: Contact
+description: 'ruth@erdt.ch'
+---
+
+<div style="height: 400px;text-align: center;padding-top: 100px">
+
+    "ruth@erdt.ch":ruth@erdt.ch
+
+</div>
+
+
+

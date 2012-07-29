@@ -1,0 +1,4 @@
+<nav id="prevnext" class="row">
+{% if page.previous %}<a href="{{page.previous.url}}" title="{{page.previous.title}}"> &larr;{{page.previous.title}}</a>{% else if %}<a href="{{site.posts.first.url}}/" title="{{ site.posts.first.title }}" >&larr;{{ site.posts.first.title }}</a>{% endif %}
+{% if page.next %}<a class="right" href="{{page.next.url}}" title="{{page.next.title}}">{{page.next.title}} &rarr;</a>{% else if %}<a class="right" href="{{site.posts.last.url}}/" title="{{ site.posts.last.title }}" >{{ site.posts.last.title }}&rarr;</a>{% endif %}
+</nav>

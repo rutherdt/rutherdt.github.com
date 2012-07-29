@@ -1,0 +1,13 @@
+---
+layout: default
+description: 'Like a thief, I stole up to his bed in the middle of the night and pointed my flash directly at his face.'
+---
+
+{% for post in site.posts %}
+<article class="cover">
+<a href="{{ post.url }}">
+  <img src="{{ post.cover }}" alt="{{ post.title }}"/>
+<h2>{{ post.title }}</h2>
+</a>
+</article>
+{% endfor %}

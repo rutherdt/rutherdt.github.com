@@ -1,0 +1,193 @@
+@import compass/reset
+@import compass/css3
+@import compass/typography/text/ellipsis
+@import compass/layout/grid-background
+@import h5bp
+@include h5bp-display
+@include h5bp-base
+@include h5bp-links
+@include h5bp-typography
+@include h5bp-lists
+@include h5bp-helpers
+@include h5bp-media
+
+$back: #EEE
+$front: #333
+
+$font_path: "/fonts/simplon" !default
++font-face("Simplon_BP_Regular", font-files("/fonts/simplon/woff/Simplon_BP_Regular_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Regular_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Regular_1.otf", opentype), "#{$font_path}.eot", normal, bold)
++font-face("Simplon_BP_Medium", font-files("/fonts/simplon/woff/Simplon_BP_Medium_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Medium_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Medium_1.otf", opentype), "#{$font_path}.eot", normal, bold)
++font-face("Simplon_BP_Regular_Italic", font-files("/fonts/simplon/woff/Simplon_BP_Regular_Italic_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Regular_Italic_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Regular_Italic_1.otf", opentype), "#{$font_path}.eot", normal, bold)
++font-face("Simplon_BP_Mono_Regular", font-files("/fonts/simplon/woff/Simplon_BP_Mono_Regular_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Mono_Regular_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Mono_Regular_1.otf", opentype), "#{$font_path}.eot", normal, bold)
+
+
+i
+  font-family: "Simplon_BP_Regular_Italic"
+.small
+  padding-bottom: 50px!important
+.medium
+  padding-bottom: 100px!important
+.big
+  padding-bottom: 200px!important
+body
+  background: $back
+  //+baseline-grid-background(26px,#DDD)
+  color: $front
+  width: 600px
+  max-width: 100%
+  margin: 50px auto
+  overflow-x: hidden
+  font-family: "Simplon_BP_Regular"
+  //+grid-background(4,100,5,20px,200px,#FFFF00,#AAA)
+p
+  -ms-word-break: break-all
+  word-break: break-all
+  word-break: break-word
+  -webkit-hyphens: auto
+  -moz-hyphens: auto
+  hyphens: auto
+  padding: 20px 0px
+  text-indent: 1em
+a
+  color: $front!important
+  text-decoration: none
+h1
+  padding-top: 100px
+  font-family: "Simplon_BP_Medium"
+  font-size: 16px
+h2
+  font-family: "Simplon_BP_Medium"
+  font-size: 16px
+  padding-bottom: 10px
+  @media screen and (max-width: 650px)
+    padding: 20px
+#main
+  width: 100%
+  display: block
+  clear: both
+nav
+  a
+    padding: 4px
+  li
+    list-style: none
+    float: left
+
+
+.cover
+  padding-bottom: 50px
+  h2
+    border-top: 1px solid #CCC
+    width: 100%
+    text-align: center
+    margin-top: 1px
+    font-family: "Simplon_BP_Mono_Regular"
+    font-size: 12px
+    padding: 12px 0px
+
+
+.fig
+  text-indent: 0em
+  padding: 4px 0px 30px 0px
+  text-transform: uppercase
+  font-size: 11px
+  font-family: "Simplon_BP_Mono_Regular"
+
+footer
+  padding-bottom: 60px
+  padding-top: 120px
+
+#container
+  display: block
+  clear: both
+  padding: 50px 0px
+  margin: 0px
+  width: 100%
+  img
+    width: 100%
+    padding: 1px 0px
+    margin: 0px
+    display: block
+    clear: both
+  p
+    padding: 10px 0px
+    @media screen and (max-width: 650px)
+      padding: 20px
+
+
+header
+  display: block
+  clear: both
+  padding: 20px 0px
+hgroup
+  h1
+    float: left
+    padding: 0px 20px 30px 0px
+    margin: 0px
+    font-family: "Simplon_BP_Medium"
+    font-size: 16px
+  h2
+    float: left
+    padding: 0px
+    margin: 0px
+    font-size: 16px
+    font-family: "Simplon_BP_Regular"
+  @media screen and (max-width: 650px)
+    padding: 20px
+
+
+
+nav
+  padding: 0px
+  li
+    float: left
+    padding: 0px
+  a
+    text-decoration: none
+    color: $front
+    padding: 10px 0px 10px 14px
+    &:hover
+      text-decoration: underline
+    @media screen and (max-width: 650px)
+      padding: 10px 0px 10px 20px
+  .selected
+    text-decoration: underline
+
+.meta
+  float: right
+  text-transform: uppercase
+  font-size: 12px
+  font-family: "Simplon_BP_Mono_Regular"
+  @media screen and (max-width: 650px)
+    float: left
+    display: block
+    clear: both
+
+
+
+
+
+#bio
+  display: block
+  clear: both
+  font-size: 14px
+  padding-top: 50px
+  padding-bottom: 50px
+  h5
+    padding-top: 50px
+  h2
+    font-family: "Simplon_BP_Medium"
+    padding-top: 30px
+    font-size: 16px
+  ul
+    padding: 0px
+  li
+    list-style: none
+    line-height: 2
+    +ellipsis()
+  em
+    font-family: "Simplon_BP_Mono_Regular"
+    margin-right: 10px
+  strong
+    font-family: "Simplon_BP_Medium"
+  @media screen and (max-width: 650px)
+    padding: 20px

@@ -11,14 +11,9 @@ cover: '/img/kinderbett/ruth-erdt-kinderbett-2-600.jpg'
  !/img/kinderbett/ruth-erdt-kinderbett-1-600.jpg!
 p(fig medium). Ausstellung Sheedhalle Rote Fabrik Zürich 2010, Ansicht
 
-h2. Setting
-
-Ein Kinderbett steht im leeren Zimmer. Das Bettchen ist aus 14 Gewehren gebaut, deren Läufe nach oben schauen. Darin liegt ein kleines Kind unter einer Decke und schläft. An den vier Eck-Gewehren steckt jeweils ein Bajonett. 
-
-p(medium). Das Zimmer ist zugänglich durch eine Türe, es hat keine Fenster, eine nackte Glühbirne hängt von der Decke. Das Bett ist der erste definierte Raum, das erste Territorium in dem das Neugeborene sich „bewegt“.
-
  !/img/kinderbett/ruth-erdt-kinderbett-4-600.jpg!
 p(fig medium). Studie 2010
+
  !/img/kinderbett/ruth-erdt-kinderbett-3-600.jpg!
 
  !/img/kinderbett/ruth-erdt-kinderbett-5-600.jpg!

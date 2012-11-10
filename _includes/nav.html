@@ -1,9 +1,0 @@
-<nav id="main">
-<ul>
-  {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}" {% if page.url == post.url %}class="selected" {% endif %} title="{{ post.title }}">{{ post.title }}</a>
-  </li>
-  {% endfor %}
-</ul>
-</nav>

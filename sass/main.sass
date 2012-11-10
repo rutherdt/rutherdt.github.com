@@ -38,11 +38,7 @@ body
   max-width: 100%
   margin: 1.5em auto
   font-family: "Simplon_BP_Regular"
-  +baseline-grid-background(1.5em, #DDD)
-p
-  +word-break(break-word)
-  +hyphens(auto)
-
+  //+baseline-grid-background(1.5em, #DDD)
 strong
   font-family: "Simplon_BP_Medium"
 em
@@ -63,12 +59,9 @@ body
   padding: 0 0!important
 
 p
+  +word-break(break-word)
+  +hyphens(auto)
   padding-top: 0
-
-article
-  h2
-    padding-top: 4.5em
-
 
 nav
   padding: 2em 0px
@@ -119,6 +112,7 @@ article
   padding: 1.5em 1em
   h2
     font-family: "Simplon_BP_Medium"
+    padding-top: 4.5em
   ul
     padding: 0
     margin: 0

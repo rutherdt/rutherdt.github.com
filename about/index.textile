@@ -6,9 +6,6 @@ description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 
 h3. "Ruth Erdt":mailto:ruth@erdt.ch is half dutch and lives in Zürich and Berlin.
 
-
-h5. Selection
-
 h2. Solo Exhibitions
 
 * _2011_	*The naked house*, NEXTLEVEL, London UK 
@@ -66,8 +63,4 @@ h2. Catalogues
 * _2000_	*M-Family*, Konzept Studion Achermann, Migros, Zürich, Switzerland
 * _1999_	*Young Catalogue*, Fotomuseum Winterthur,  Christoph Merian Verlag,  Switzerland.
 * _1999_	*Message Salon*, Andreas Züst Verlag, Zürich, Switzerland
-
-
-
-
 

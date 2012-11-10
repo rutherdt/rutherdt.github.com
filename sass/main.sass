@@ -38,13 +38,17 @@ body
   margin: 50px auto
   overflow-x: hidden
   font-family: "Simplon_BP_Regular"
-  //+grid-background(4,100,5,20px,200px,#FFFF00,#AAA)
+  //+grid-background(1,700,5,1.5em,200px,#FFF,#EEE,#CCC)
 p
   +word-break(break-word)
   +hyphens(auto)
-  padding: 20px 0px
+  padding: 1.5em 0px
   line-height: 1.5
-  font-size: 16px
+  font-size: 1em
+strong
+  font-family: "Simplon_BP_Medium"
+em
+  font-family: "Simplon_BP_Regular_Italic"
 a
   color: $front!important
   text-decoration: none
@@ -108,7 +112,7 @@ footer
     margin: 0px
     display: block
     clear: both
-  p
+  p, h3
     padding: 10px 0px
     @media screen and (max-width: 650px)
       padding: 20px

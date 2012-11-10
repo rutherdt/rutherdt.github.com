@@ -1,5 +1,5 @@
 ---
-layout: bio
+layout: default
 title: Bio
 description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 ---

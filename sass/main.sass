@@ -14,6 +14,9 @@
 $back: #EEE
 $front: #333
 
+$fontsize: 1em
+$lineheight: $fontsize * 1.618
+$side: $fontsize / 1.618
 $font_path: "/fonts/simplon" !default
 +font-face("Simplon_BP_Regular", font-files("/fonts/simplon/woff/Simplon_BP_Regular_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Regular_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Regular_1.otf", opentype), "#{$font_path}.eot", normal, bold)
 +font-face("Simplon_BP_Medium", font-files("/fonts/simplon/woff/Simplon_BP_Medium_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Medium_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Medium_1.otf", opentype), "#{$font_path}.eot", normal, bold)
@@ -24,23 +27,28 @@ $font_path: "/fonts/simplon" !default
 i
   font-family: "Simplon_BP_Regular_Italic"
 .small
-  padding-bottom: 1em!important
+  padding-bottom: $lineheight!important
 .medium
-  padding-bottom: 4em!important
+  padding-bottom: $lineheight*3!important
 .big
-  padding-bottom: 12em!important
+  padding-bottom: $lineheight*7!important
 
 body
-  font-size: 100%
+  font-size: $fontsize
   background: $back
   color: $front
   width: 630px
   max-width: 100%
-  margin: 1.5em auto
+  margin: 0 auto
+  margin-bottom: $lineheight*7.0
+  margin-top: $lineheight*3.0
+  line-height: $lineheight
   font-family: "Simplon_BP_Regular"
-  //+baseline-grid-background(1.5em, #DDD)
+  //+baseline-grid-background($lineheight, #DDD)
+
 strong
   font-family: "Simplon_BP_Medium"
+  font-weight: normal
 em
   font-family: "Simplon_BP_Regular_Italic"
 a
@@ -49,70 +57,71 @@ a
 h1, h2
   font-family: "Simplon_BP_Medium"
 
-body, h1, h2, h3, h4, h5,  p, strong
-  padding-top: 1.5em
-  padding-bottom: 1.5em
-  line-height: 1.5
-  font-size: 1em
-
-body
-  padding: 0 0!important
-
+h1, h2, h3, h4, h5,  p, strong
+  padding-top: $fontsize*1.5
+  padding-bottom: $fontsize*1.5
 p
   +word-break(break-word)
   +hyphens(auto)
   padding-top: 0
 
+.clear
+  clear: both
+  width: 100%
 nav
-  padding: 2em 0px
+  text-transform: uppercase
+  font-size: $font-size/1.618
+  font-family: "Simplon_BP_Mono_Regular"
+  //background: #FFFF00
+  float: right
+  ul
+    display: inline
+    padding: $lineheight 0
+    //background: #CCC
   li
     list-style: none
     float: left
   a
     text-decoration: none
     color: $front
-    padding: 0 0 0 1.5em
+    padding: 0 0 0 $lineheight
     &:hover
       text-decoration: underline
   .selected
     text-decoration: underline
 
-.meta
-  float: right
-  text-transform: uppercase
-  font-size: 0.75em
-  font-family: "Simplon_BP_Mono_Regular"
 
 
 section
-  padding-bottom: 3em
+  padding-bottom: $lineheight * 2.0
   h2
-    padding-top: 1.5em
+    padding-top: $lineheight !important
     width: 100%
     text-align: center
     font-family: "Simplon_BP_Mono_Regular"
 
-header
-  padding: 0.5em 1em
-
-hgroup
-  display: inline-block
+header, footer
+  //background: rgba(0,0,255,0.5)
   h1, h2
     float: left
-    margin: 0px
-    padding-left: 0em
-    padding-right: 1em
+    padding: 0 $side*2 0 0
   h1
     font-family: "Simplon_BP_Medium"
   h2
     font-family: "Simplon_BP_Regular"
+footer
+  padding-top: 5*$lineheight!important
 
+header, footer, article
+  padding: $lineheight*2.0 $side
+  line-height: $lineheight
 
 article
-  padding: 1.5em 1em
+  clear: both
+  //background: rgba(200,100,100,0.5)
   h2
     font-family: "Simplon_BP_Medium"
-    padding-top: 4.5em
+    padding-top: $lineheight*2.0
   ul
     padding: 0
     margin: 0
@@ -121,7 +130,7 @@ article
     +ellipsis()
   em
     font-family: "Simplon_BP_Mono_Regular"
-    margin-right: 1em
+    margin-right: $side
 
 img
   width: 100%
@@ -135,11 +144,3 @@ img
   padding: 0.75em 0
   font-family: "Simplon_BP_Mono_Regular"
 
-footer
-  padding: 3.5em 1em
-
-.mark
-  width: 50px
-  height: 50px
-  background: #FF0000
-  position: relative

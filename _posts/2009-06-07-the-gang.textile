@@ -25,7 +25,9 @@ cover: '/img/the-gang/ruth-erdt-the-gang-6-600.jpg'
 
 
 
+<div class="press">
 
+---
 
 h2. The photograph as contemporary art
 
@@ -38,7 +40,7 @@ The Swiss photographer Ruth Erdt published a collection of portraits she made of
 Spontaneous and posed portraits are blended into the book sequence, giving over the sense of how her photographing of daily life is both accepted by a collaboration with her loved ones.
 
 
-
+---
 
 
 DUTCH / 40 / 2002
@@ -50,7 +52,7 @@ Zeva Bellel
 Why would Swiss photographer Ruth Erdt rent a few extra kids for her family portrait? In her book The Gang, Erdt’s two children mingle with stand-ins in a harmonious palat of milky-white skin, fresh freckles, and strawberry blond hair, while lovers, friends and parents slip in and out view. Tracing the physical landscape of home throug nature’s textures, colors, light and shadows. Erdt create a tangible, tactile image of a place that is often closed off, accessible only those who live inside. Her subjects handle clay on the beach, do handstands on the bed, and disappear like colorful shadowsinto the bath, playing out subtle, moody narratives that are intimately open, universal and pure in her free, sensuous territory called home. 
 
 
-
+---
 
 
 h2. Art incentive prize amstelveen
@@ -79,7 +81,7 @@ to the level of the baroque allegory, reminiscent of Caravaggio’s work.
 Her images are enormously dense and concentrated and possess the directness
 native to their medium. They are photographic dynamite.
 
-
+---
 
 Tages Anzeiger, 12.12.2001
 
@@ -99,11 +101,11 @@ Doppelte Offenheit
 Gerade diese spezifische Mischung, diese doppelte Offenheit bewegt die Fantasie. Schon beim Durchblättern bleibt der Blick nicht nur bei den Portraits hängen, deren starke Ausstrahlung bannt, vielleicht weil sie alle Personen, selbst die Kinder, ernst, selbstvergessen zeigen. Er hält auch bei den stilllebenartigen Szenen inne: den vier Weisheitszähnen, den auf einem Grashalm aufgezogenen Waldbeeren, der Spinne, dem Wundschorf auf der Haut, dem unscharf fotografierten Ölbild zweier Häschen, dem Abrisshaus. Das Changieren zwischen Dokument und rätselhafter Chiffre verdichtet sich hier zusätzlich. Allen Bilder von Ruth Erdt, selbst den flüchtigsten, eignet eine eigentümliche Konzentration, die sich in der komponierten Sequenz noch verstärkt.
 
 
+---
+
 
 h2. Urs Stahel: ZEITGENÖSSISCHE FOTOKUNST AUS DER SCHWEIZ
 
 Ruth Erdt dokumentiert seit achtzehn Jahren ihr Leben, sich selbst, den Vater ihrer beider Kinder, die Kinder sowie die wichtigen Freunde und Freundinnen. Der Blick ist hart und direkt, aber auch warm und sentimental. Wir sind nahe dran, inmitten dieser Intimität, spüren die Spannung, die Erotik, die Verlorenheit, ausschnitthaft das Gefühlpotential einer jungen Famile- und wir fühlen uns doch nicht als Eindringliche, denken entlang der Bilder über unsere eigene Suche nach. In der Tradition der autobiografischen Fotografie sthehend, schafft Ruth Erdt Bilder von Eindringlichkeit, Offenheit und subtiler Erotik.Art incentive prize amstelveen
 
-
-
-
+</div>

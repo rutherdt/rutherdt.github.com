@@ -6,6 +6,8 @@ description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 
 h3. "Ruth Erdt":mailto:ruth@erdt.ch is half dutch and lives in Zürich and Berlin.
 
+ "ruth@erdt.ch":mailto:ruth@erdt.ch
+
 h2. Solo Exhibitions
 
 * _2011_	*The naked house*, NEXTLEVEL, London UK 

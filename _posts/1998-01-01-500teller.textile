@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 500 Teller 8 Spiegel 2 Scharfschützen 2 Kameras
-label: 500 Teller 8 Spiegel 2 Scharfschützen 2 Kameras
+title: Teller
+label: Teller
 description: '500 Teller 8 Spiegel 2 Scharfschützen 2 Kameras'
+background: '#000000'
+color: '#777'
 cover: '/img/500teller/ruth-erdt-500teller-0-600.jpg'
 ---
 

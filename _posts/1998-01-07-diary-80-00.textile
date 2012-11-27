@@ -2,6 +2,8 @@
 layout: post
 title: Diary 80-00
 label: Diary 80-00
+background: '#000'
+color: '#CCC'
 description: 'Der Vogel hat mir wieder auf den Tisch geschissen.'
 cover: '/img/diary-80-00/ruth-erdt-diary-80-00-6-600.jpg'
 ---

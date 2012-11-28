@@ -29,11 +29,11 @@ function destroy(){
 
 
   $("article img").click(function(){
-     create();
-     $("#supersized").click(function(){
-     $(this).fadeOut();
-    $("header, footer, article").show();
-     });
+   //  create();
+    // $("#supersized").click(function(){
+    // $(this).fadeOut();
+    //$("header, footer, article").show();
+     //});
 
   });
 

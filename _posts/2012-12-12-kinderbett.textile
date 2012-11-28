@@ -8,24 +8,24 @@ description: 'For my next child'
 cover: '/img/kinderbett/ruth-erdt-kinderbett-2-600.jpg'
 ---
 
- !/img/kinderbett/ruth-erdt-kinderbett-2-600.jpg(Alt text)!
+ !/img/kinderbett/ruth-erdt-kinderbett-2-600.jpg(Ruth Erdt, Kinderbett)!
 
- !/img/kinderbett/ruth-erdt-kinderbett-1-600.jpg!
+ !/img/kinderbett/ruth-erdt-kinderbett-1-600.jpg(Ruth Erdt, Kinderbett)!
 p(fig medium). Ausstellung Sheedhalle Rote Fabrik Zürich 2010, Ansicht
 
- !/img/kinderbett/ruth-erdt-kinderbett-4-600.jpg!
+ !/img/kinderbett/ruth-erdt-kinderbett-4-600.jpg(Ruth Erdt, Kinderbett)!
 p(fig medium). Studie 2010
 
- !/img/kinderbett/ruth-erdt-kinderbett-3-600.jpg!
+ !/img/kinderbett/ruth-erdt-kinderbett-3-600.jpg(Ruth Erdt, Kinderbett)!
 
- !/img/kinderbett/ruth-erdt-kinderbett-5-600.jpg!
+ !/img/kinderbett/ruth-erdt-kinderbett-5-600.jpg(Ruth Erdt, Kinderbett)!
 
- !/img/kinderbett/ruth-erdt-kinderbett-6-600.jpg!
+ !/img/kinderbett/ruth-erdt-kinderbett-6-600.jpg(Ruth Erdt, Kinderbett)!
+
 p(fig medium). Studie 2010
 
+ !/img/kinderbett/ruth-erdt-kinderbett-0-600.jpg(Ruth Erdt, Kinderbett)!
 
-
- !/img/kinderbett/ruth-erdt-kinderbett-0-600.jpg!
 p(fig medium). Konstruktion / Detail (S.Fausch / Metallwerkstatt / Örlikon)
 
 h2. Beretta

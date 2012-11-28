@@ -11,32 +11,15 @@
   <meta name="viewport" content="width=device-width">
   <link type="text/plain" rel="author" href="/humans.txt" />
   <link rel="stylesheet" href="{% if page.title %}../{% endif %}css/main.css">
-  <link rel="stylesheet" href="{% if page.title %}../{% endif %}css/supersized.css">
   <script src="{% if page.title %}../{% endif %}js/vendor/modernizr-2.5.3.min.js"></script>
-{% if page.background %}
-<style>
-  body{background:{{ page.background }};}
-  a, body{color:{{ page.color }}!important;}
-</style>
-{% endif %}
+{% if page.background %}<style>body{background:{{ page.background }};}a, body{color:{{ page.color }}!important;}</style>{% endif %}
 </head>
 <body>
-  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-  <header>
-  {% include metanav.html %}
-  </header>
-   <article>
-      {{ content }}
-   </article>
-   {% if page.title != 'Contact' %}
-   <footer>
-      {% include metanav.html %}
-  </footer>
-   {% endif %}
+  <header>{% include metanav.html %}</header>
+  <article>{{ content }}</article>
+  {% if page.title != 'Contact' %}<footer>{% include metanav.html %}</footer>{% endif %}
   <!-- scripts concatenated and minified via ant build script-->
   <script src="{% if page.title %}../{% endif %}js/vendor/jquery-1.8.2.min.js"></script>
-  <script src="{% if page.title %}../{% endif %}js/jquery.easing.min.js"></script>
-  <script src="{% if page.title %}../{% endif %}js/plugins.js"></script>
   <script src="{% if page.title %}../{% endif %}js/main.js"></script>
   <!-- end scripts-->
 </body>

@@ -8,8 +8,8 @@ color: '#777'
 cover: '/img/500teller/ruth-erdt-500teller-0-600.jpg'
 ---
 
- !(small)/img/500teller/ruth-erdt-500teller-0-600.jpg!
- !(big)/img/500teller/ruth-erdt-500teller-1-600.jpg!
- !(small)/img/500teller/ruth-erdt-500teller-2-600.jpg!
- !(small)/img/500teller/ruth-erdt-500teller-3-600.jpg!
+ !(small)/img/500teller/ruth-erdt-500teller-0-600.jpg(Ruth Erdt, 500 Teller)!
+ !(big)/img/500teller/ruth-erdt-500teller-1-600.jpg(Ruth Erdt, 500 Teller)!
+ !(small)/img/500teller/ruth-erdt-500teller-2-600.jpg(Ruth Erdt, 500 Teller)!
+ !(small)/img/500teller/ruth-erdt-500teller-3-600.jpg(Ruth Erdt, 500 Teller)!
 

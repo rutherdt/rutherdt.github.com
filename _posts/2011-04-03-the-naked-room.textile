@@ -6,7 +6,7 @@ description: 'Working in a completely black room makes vision impossible, transf
 cover: '/img/the-naked-house/ruth-erdt-the-naked-house-0-600.jpg'
 ---
 
- !(small)/img/the-naked-house/ruth-erdt-the-naked-house-0-600.jpg!
+ !(small)/img/the-naked-house/ruth-erdt-the-naked-house-0-600.jpg(Ruth Erdt, The naked house)!
 
 Since two years I am working on a series that I call *the naked house*.
 It is about photograms, which are produced in the analogue colour laboratory. Light-sensitive photo paper is given a direct exposure , without a negative. The photograms can only be produced in the pitch-dark because I am working with colour paper and the picture can’t be prepared in the red light. So I am putting myself into a situation in which the picture can’t be controlled in its developing process, it can be guessed, sensed by touch in the dark.
@@ -15,20 +15,11 @@ It is only visible after developing.  This reversal and slowdown of the picture�
 
 p(medium). Working in a completely black room makes vision impossible, transforms the photographer into a blind person.  The blind person creates the picture. Other senses are being sharpened and the perception is being changed. This process is just as important as the result - a concentration into the void, the loneliness in the moment of taking the picture and the final picture as a sketch, as a possibility, as a vision.
 
-
- !(small)/img/the-naked-house/ruth-erdt-the-naked-house-1-600.jpg!
- 
- !/img/the-naked-house/ruth-erdt-the-naked-house-2-600.jpg!
-
- !/img/the-naked-house/ruth-erdt-the-naked-house-3-600.jpg!
- 
- !/img/the-naked-house/ruth-erdt-the-naked-house-4-600.jpg!
- 
- !/img/the-naked-house/ruth-erdt-the-naked-house-5-600.jpg!
- 
- !(big)/img/the-naked-house/ruth-erdt-the-naked-house-6-600.jpg!
-  !/img/the-naked-house/ruth-erdt-the-naked-house-7-600.jpg!
-  !/img/the-naked-house/ruth-erdt-the-naked-house-8-600.jpg!
-
-
-
+ !(small)/img/the-naked-house/ruth-erdt-the-naked-house-1-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-2-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-3-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-4-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-5-600.jpg(Ruth Erdt, The naked house)!
+ !(big)/img/the-naked-house/ruth-erdt-the-naked-house-6-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-7-600.jpg(Ruth Erdt, The naked house)!
+ !/img/the-naked-house/ruth-erdt-the-naked-house-8-600.jpg(Ruth Erdt, The naked house)!

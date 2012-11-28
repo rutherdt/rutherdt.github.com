@@ -6,21 +6,20 @@ description: 'Fotografieren ist wie Fliegen. Man kann jederzeit abstürzen.'
 cover: '/img/the-gang/ruth-erdt-the-gang-6-600.jpg'
 ---
 
- !(big)/img/the-gang/ruth-erdt-the-gang-0-600.jpg!
- !(medium)/img/the-gang/ruth-erdt-the-gang-1-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-2-600.jpg!
- !(medium)/img/the-gang/ruth-erdt-the-gang-3-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-4-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-5-600.jpg!
- !(medium)/img/the-gang/ruth-erdt-the-gang-6-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-7-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-8-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-9-600.jpg!
- !(medium)/img/the-gang/ruth-erdt-the-gang-10-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-11-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-12-600.jpg!
- !/img/the-gang/ruth-erdt-the-gang-13-600.jpg!
-
+ !(big)/img/the-gang/ruth-erdt-the-gang-0-600.jpg(Ruth Erdt, The Gang)!
+ !(medium)/img/the-gang/ruth-erdt-the-gang-1-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-2-600.jpg(Ruth Erdt, The Gang)!
+ !(medium)/img/the-gang/ruth-erdt-the-gang-3-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-4-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-5-600.jpg(Ruth Erdt, The Gang)!
+ !(medium)/img/the-gang/ruth-erdt-the-gang-6-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-7-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-8-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-9-600.jpg(Ruth Erdt, The Gang)!
+ !(medium)/img/the-gang/ruth-erdt-the-gang-10-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-11-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-12-600.jpg(Ruth Erdt, The Gang)!
+ !/img/the-gang/ruth-erdt-the-gang-13-600.jpg(Ruth Erdt, The Gang)!
 
 
 
@@ -53,7 +52,6 @@ Why would Swiss photographer Ruth Erdt rent a few extra kids for her family port
 
 
 ---
-
 
 h2. Art incentive prize amstelveen
 
@@ -102,7 +100,6 @@ Gerade diese spezifische Mischung, diese doppelte Offenheit bewegt die Fantasie.
 
 
 ---
-
 
 h2. Urs Stahel: ZEITGENÖSSISCHE FOTOKUNST AUS DER SCHWEIZ
 

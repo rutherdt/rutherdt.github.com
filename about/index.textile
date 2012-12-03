@@ -8,7 +8,7 @@ h3. "Ruth Erdt":mailto:ruth@erdt.ch is half dutch and lives in Zürich and Berli
 
  "ruth@erdt.ch":mailto:ruth@erdt.ch
 
-h2. Solo Exhibitions
+h2. Solo Exhibitions Test
 
 2012    Catch of the year
 * _2012_ *Catch of the year*, Zürich

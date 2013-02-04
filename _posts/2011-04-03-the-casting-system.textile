@@ -3,31 +3,31 @@ layout: post
 title: The casting system
 label: The casting system
 description: "I was looking for girls for me, now I'm looking for girs for you."
-cover: '/img/the-casting-system/ruth-erdt-the-casting-system-19-600.jpg'
+cover: 'img/the-casting-system/ruth-erdt-the-casting-system-19-600.jpg'
 ---
 
 
- !/img/the-casting-system/ruth-erdt-the-casting-system-0-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-1-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-2-600.jpg(Ruth Erdt, The casting System)!
- !(medium)/img/the-casting-system/ruth-erdt-the-casting-system-3-600.jpg(Ruth Erdt, The casting System)!
- !(medium)/img/the-casting-system/ruth-erdt-the-casting-system-4-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-5-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-6-600.jpg(Ruth Erdt, The casting System)!
- !(big)/img/the-casting-system/ruth-erdt-the-casting-system-7-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-8-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-9-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-10-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-11-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-12-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-13-600.jpg(Ruth Erdt, The casting System)!
- !(medium)/img/the-casting-system/ruth-erdt-the-casting-system-14-600.jpg(Ruth Erdt, The casting System)!
- !/img/the-casting-system/ruth-erdt-the-casting-system-15-600.jpg(Ruth Erdt, The casting System)!
- !(medium)/img/the-casting-system/ruth-erdt-the-casting-system-16-600.jpg(Ruth Erdt, The casting System)!
- !(small)/img/the-casting-system/ruth-erdt-the-casting-system-17-600.jpg(Ruth Erdt, The casting System)!
- !(small)/img/the-casting-system/ruth-erdt-the-casting-system-18-600.jpg(Ruth Erdt, The casting System)!
- !(small)/img/the-casting-system/ruth-erdt-the-casting-system-19-600.jpg(Ruth Erdt, The casting System)!
- !(small)/img/the-casting-system/ruth-erdt-the-casting-system-20-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-0-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-1-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-2-600.jpg(Ruth Erdt, The casting System)!
+ !(medium)../img/the-casting-system/ruth-erdt-the-casting-system-3-600.jpg(Ruth Erdt, The casting System)!
+ !(medium)../img/the-casting-system/ruth-erdt-the-casting-system-4-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-5-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-6-600.jpg(Ruth Erdt, The casting System)!
+ !(big)../img/the-casting-system/ruth-erdt-the-casting-system-7-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-8-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-9-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-10-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-11-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-12-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-13-600.jpg(Ruth Erdt, The casting System)!
+ !(medium)../img/the-casting-system/ruth-erdt-the-casting-system-14-600.jpg(Ruth Erdt, The casting System)!
+ !../img/the-casting-system/ruth-erdt-the-casting-system-15-600.jpg(Ruth Erdt, The casting System)!
+ !(medium)../img/the-casting-system/ruth-erdt-the-casting-system-16-600.jpg(Ruth Erdt, The casting System)!
+ !(small)../img/the-casting-system/ruth-erdt-the-casting-system-17-600.jpg(Ruth Erdt, The casting System)!
+ !(small)../img/the-casting-system/ruth-erdt-the-casting-system-18-600.jpg(Ruth Erdt, The casting System)!
+ !(small)../img/the-casting-system/ruth-erdt-the-casting-system-19-600.jpg(Ruth Erdt, The casting System)!
+ !(small)../img/the-casting-system/ruth-erdt-the-casting-system-20-600.jpg(Ruth Erdt, The casting System)!
 
 
 The Casting System / Zürich / Indien

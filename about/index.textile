@@ -69,3 +69,4 @@ h2. Catalogues
 * _1999_	*Young Catalogue*, Fotomuseum Winterthur,  Christoph Merian Verlag,  Switzerland.
 * _1999_	*Message Salon*, Andreas Züst Verlag, Zürich, Switzerland
 
+test

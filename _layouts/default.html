@@ -17,7 +17,7 @@
 <body>
   <header>{% include metanav.html %}</header>
   <article>{{ content }}</article>
-  {% if page.title != 'Contact' %}<footer>{% include metanav.html %}</footer>{% endif %}
+  {% if page.title != 'Contact' %}{% if page.title != 'Now' %}<footer>{% include metanav.html %}</footer>{% endif %}{% endif %}
   <!-- scripts concatenated and minified via ant build script-->
   <script src="{% if page.title %}../{% endif %}js/vendor/jquery-1.8.2.min.js"></script>
   <script src="{% if page.title %}../{% endif %}js/main.js"></script>

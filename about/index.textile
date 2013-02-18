@@ -68,5 +68,3 @@ h2. Catalogues
 * _2000_	*M-Family*, Konzept Studion Achermann, Migros, Zürich, Switzerland
 * _1999_	*Young Catalogue*, Fotomuseum Winterthur,  Christoph Merian Verlag,  Switzerland.
 * _1999_	*Message Salon*, Andreas Züst Verlag, Zürich, Switzerland
-
-test

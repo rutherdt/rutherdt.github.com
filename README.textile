@@ -1,0 +1,12 @@
+"erdt.ch":http://erdt.ch
+
+"color picker":http://color.hailpixel.com/
+
+"w3c validator":http://validator.w3.org/check?uri=erdt.ch&charset=%28detect+automatically%29&doctype=Inline&group=0
+
+"google pagespeed":https://developers.google.com/speed/pagespeed/insights#url=erdt.ch&mobile=false
+
+"jekyll":https://github.com/mojombo/jekyll
+
+"Google Analytics":http://analytics.google.com ID UA-36657785-1
+

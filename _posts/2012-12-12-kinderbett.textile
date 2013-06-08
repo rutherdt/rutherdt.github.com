@@ -5,26 +5,26 @@ label: Kinderbett
 background: '#222'
 color: '#AAA'
 description: 'For my next child'
-cover: 'img/kinderbett/ruth-erdt-kinderbett-2-600.jpg'
+cover: 'img/kinderbett/ruth-erdt-kinderbett-2-700.jpg'
 ---
 
- !../img/kinderbett/ruth-erdt-kinderbett-2-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-2-700.jpg(Ruth Erdt, Kinderbett)!
 
- !../img/kinderbett/ruth-erdt-kinderbett-1-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-1-700.jpg(Ruth Erdt, Kinderbett)!
 p(fig medium). Ausstellung Sheedhalle Rote Fabrik Zürich 2010, Ansicht
 
- !../img/kinderbett/ruth-erdt-kinderbett-4-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-4-700.jpg(Ruth Erdt, Kinderbett)!
 p(fig medium). Studie 2010
 
- !../img/kinderbett/ruth-erdt-kinderbett-3-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-3-700.jpg(Ruth Erdt, Kinderbett)!
 
- !../img/kinderbett/ruth-erdt-kinderbett-5-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-5-700.jpg(Ruth Erdt, Kinderbett)!
 
- !../img/kinderbett/ruth-erdt-kinderbett-6-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-6-700.jpg(Ruth Erdt, Kinderbett)!
 
 p(fig medium). Studie 2010
 
- !../img/kinderbett/ruth-erdt-kinderbett-0-600.jpg(Ruth Erdt, Kinderbett)!
+ !../img/kinderbett/ruth-erdt-kinderbett-0-700.jpg(Ruth Erdt, Kinderbett)!
 
 p(fig medium). Konstruktion / Detail (S.Fausch / Metallwerkstatt / Örlikon)
 

@@ -1,4 +1,3 @@
-require "compass-h5bp"
 http_path = "/"
 css_dir = "css"
 sass_dir = "css"

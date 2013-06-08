@@ -3,10 +3,10 @@ layout: post
 title: Die Lügner
 label: Die Lügner
 description: 'I like liars. People who manipulate their daily grind with little white lies to simulate facts and circumstances.'
-cover: 'img/die-luegner/ruth-erdt-die-luegner-17-600.jpg'
+cover: 'img/die-luegner/ruth-erdt-die-luegner-17-700.jpg'
 ---
 
- !(small)../img/die-luegner/ruth-erdt-die-luegner-0-600.jpg!
+ !(small)../img/die-luegner/ruth-erdt-die-luegner-0-700.jpg!
  
 « I was around 12 years old when i imagined a camera.
 This camera I conceived was attached to my head, could be used any time and 'took pictures' when I wanted it to, and from the angle I chose.
@@ -36,39 +36,39 @@ Strong, moving impressions are made, which slowly condense into a story of inter
 
 
 
- !../img/die-luegner/ruth-erdt-die-luegner-1-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-2-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-3-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-4-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-5-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-6-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-7-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-8-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-9-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-10-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-11-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-12-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-13-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-14-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-15-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-16-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-17-600.jpg(Ruth Erdt, Die Lügner)!
- !(big)../img/die-luegner/ruth-erdt-die-luegner-18-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-19-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-20-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-21-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-22-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-23-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-24-600.jpg(Ruth Erdt, Die Lügner)!
- !(big)../img/die-luegner/ruth-erdt-die-luegner-25-600.jpg(Ruth Erdt, Die Lügner)!
- !(big)../img/die-luegner/ruth-erdt-die-luegner-26-600.jpg(Ruth Erdt, Die Lügner)!
- !(small)../img/die-luegner/ruth-erdt-die-luegner-27-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-28-600.jpg(Ruth Erdt, Die Lügner)!
- !(small)../img/die-luegner/ruth-erdt-die-luegner-29-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-30-600.jpg(Ruth Erdt, Die Lügner)!
- !(medium)../img/die-luegner/ruth-erdt-die-luegner-31-600.jpg(Ruth Erdt, Die Lügner)!
- !(small)../img/die-luegner/ruth-erdt-die-luegner-32-600.jpg(Ruth Erdt, Die Lügner)!
- !../img/die-luegner/ruth-erdt-die-luegner-33-600.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-1-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-2-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-3-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-4-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-5-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-6-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-7-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-8-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-9-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-10-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-11-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-12-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-13-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-14-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-15-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-16-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-17-700.jpg(Ruth Erdt, Die Lügner)!
+ !(big)../img/die-luegner/ruth-erdt-die-luegner-18-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-19-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-20-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-21-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-22-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-23-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-24-700.jpg(Ruth Erdt, Die Lügner)!
+ !(big)../img/die-luegner/ruth-erdt-die-luegner-25-700.jpg(Ruth Erdt, Die Lügner)!
+ !(big)../img/die-luegner/ruth-erdt-die-luegner-26-700.jpg(Ruth Erdt, Die Lügner)!
+ !(small)../img/die-luegner/ruth-erdt-die-luegner-27-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-28-700.jpg(Ruth Erdt, Die Lügner)!
+ !(small)../img/die-luegner/ruth-erdt-die-luegner-29-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-30-700.jpg(Ruth Erdt, Die Lügner)!
+ !(medium)../img/die-luegner/ruth-erdt-die-luegner-31-700.jpg(Ruth Erdt, Die Lügner)!
+ !(small)../img/die-luegner/ruth-erdt-die-luegner-32-700.jpg(Ruth Erdt, Die Lügner)!
+ !../img/die-luegner/ruth-erdt-die-luegner-33-700.jpg(Ruth Erdt, Die Lügner)!
 
 
 

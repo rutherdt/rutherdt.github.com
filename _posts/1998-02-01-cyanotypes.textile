@@ -5,20 +5,20 @@ label: Cyanotypes
 description: 'Cyanotypes'
 background: '#CCC'
 color: '#777'
-cover: 'img/cyanotypes/ruth-erdt-cyanotypes-0-600.jpg'
+cover: 'img/cyanotypes/ruth-erdt-cyanotypes-0-700.jpg'
 ---
 
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-0-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-1-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-2-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-3-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-4-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-5-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-6-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-7-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-8-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-9-600.jpg(Ruth Erdt, Cyanotypes)!
- !(small)../img/cyanotypes/ruth-erdt-cyanotypes-10-600.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-0-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-1-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-2-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-3-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-4-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-5-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-6-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-7-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-8-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-9-700.jpg(Ruth Erdt, Cyanotypes)!
+ !(small)../img/cyanotypes/ruth-erdt-cyanotypes-10-700.jpg(Ruth Erdt, Cyanotypes)!
 
 
 PUBLICATION:

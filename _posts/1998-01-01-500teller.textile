@@ -5,7 +5,7 @@ label: Teller
 description: '500 Teller 8 Spiegel 2 Scharfschützen 2 Kameras'
 background: '#000000'
 color: '#777'
-cover: 'img/500teller/ruth-erdt-500teller-0-600.jpg'
+cover: 'img/500teller/ruth-erdt-500teller-0-700.jpg'
 ---
 
 500 Teller
@@ -15,14 +15,14 @@ cover: 'img/500teller/ruth-erdt-500teller-0-600.jpg'
 
 2006 Zürich/ Langenthal
 
- !(small)../img/500teller/ruth-erdt-500teller-0-600.jpg(Ruth Erdt, 500 Teller)!
- !(big)../img/500teller/ruth-erdt-500teller-1-600.jpg(Ruth Erdt, 500 Teller)!
- !(medium)../img/500teller/ruth-erdt-500teller-2-600.jpg(Ruth Erdt, 500 Teller)!
- !(small)../img/500teller/ruth-erdt-500teller-3-600.jpg(Ruth Erdt, 500 Teller)!
- !(small)../img/500teller/ruth-erdt-500teller-4-600.jpg(Ruth Erdt, 500 Teller)!
- !(big)../img/500teller/ruth-erdt-500teller-5-600.jpg(Ruth Erdt, 500 Teller)!
- !(medium)../img/500teller/ruth-erdt-500teller-6-600.jpg(Ruth Erdt, 500 Teller)!
- !../img/500teller/ruth-erdt-500teller-7-600.jpg(Ruth Erdt, 500 Teller)!
- !(big)../img/500teller/ruth-erdt-500teller-8-600.jpg(Ruth Erdt, 500 Teller)!
- !(small)../img/500teller/ruth-erdt-500teller-9-600.jpg(Ruth Erdt, 500 Teller)!
+ !(small)../img/500teller/ruth-erdt-500teller-0-700.jpg(Ruth Erdt, 500 Teller)!
+ !(big)../img/500teller/ruth-erdt-500teller-1-700.jpg(Ruth Erdt, 500 Teller)!
+ !(medium)../img/500teller/ruth-erdt-500teller-2-700.jpg(Ruth Erdt, 500 Teller)!
+ !(small)../img/500teller/ruth-erdt-500teller-3-700.jpg(Ruth Erdt, 500 Teller)!
+ !(small)../img/500teller/ruth-erdt-500teller-4-700.jpg(Ruth Erdt, 500 Teller)!
+ !(big)../img/500teller/ruth-erdt-500teller-5-700.jpg(Ruth Erdt, 500 Teller)!
+ !(medium)../img/500teller/ruth-erdt-500teller-6-700.jpg(Ruth Erdt, 500 Teller)!
+ !../img/500teller/ruth-erdt-500teller-7-700.jpg(Ruth Erdt, 500 Teller)!
+ !(big)../img/500teller/ruth-erdt-500teller-8-700.jpg(Ruth Erdt, 500 Teller)!
+ !(small)../img/500teller/ruth-erdt-500teller-9-700.jpg(Ruth Erdt, 500 Teller)!
 

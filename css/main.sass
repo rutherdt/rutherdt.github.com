@@ -6,7 +6,7 @@
 $back: #EEE
 $front: #333
 
-$fontsize: 1.1em
+$fontsize: 16px
 $lineheight: $fontsize * 1.618
 $side: $fontsize / 1.618
 $font_path: "/fonts/simplon" !default
@@ -67,8 +67,11 @@ nav
   font-size: $fontsize*0.75
   letter-spacing: 1px
   font-family: "Simplon_BP_Mono_Regular"
-  padding-right: 6px
   float: right
+  @media only screen and (max-width: 600px)
+    position: absolute
+    top: 26px
+    right: 10px
   ul
     display: inline
     padding: $lineheight 0
@@ -97,11 +100,16 @@ section
 header, footer
   h1, h2
     float: left
-    padding: 0 $side*2 0 0
+    padding: 0 0 0 0
   h1
     font-family: "Simplon_BP_Medium"
   h2
     font-family: "Simplon_BP_Regular"
+    @media only screen and (max-width: 500px)
+      clear: both
+      display: block
+      padding-top: 20px
+      padding-left: 36px
 footer
   padding-top: 3*$lineheight!important
 
@@ -109,7 +117,7 @@ header, footer
   padding: $lineheight*2.0 $side
   line-height: $lineheight
   @media only screen and (max-width: 600px)
-    padding: 0 $side
+    padding: 0 $side*0.5
 
 article
   padding: $lineheight*2.0 0

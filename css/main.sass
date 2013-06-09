@@ -1,8 +1,7 @@
 @import compass/reset
 @import compass/css3
 @import compass/typography/text/ellipsis
-@import compass/layout/grid-background
-
+//@import compass/layout/grid-background
 
 $back: #EEE
 $front: #333
@@ -16,7 +15,6 @@ $font_path: "/fonts/simplon" !default
 +font-face("Simplon_BP_Regular_Italic", font-files("/fonts/simplon/woff/Simplon_BP_Regular_Italic_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Regular_Italic_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Regular_Italic_1.otf", opentype), "#{$font_path}.eot", normal, bold)
 +font-face("Simplon_BP_Mono_Regular", font-files("/fonts/simplon/woff/Simplon_BP_Mono_Regular_1.woff", woff, "/fonts/simplon/ttf/Simplon_BP_Mono_Regular_1.ttf", truetype, "/fonts/simplon/otf/Simplon_BP_Mono_Regular_1.otf", opentype), "#{$font_path}.eot", normal, bold)
 
-
 i
   font-family: "Simplon_BP_Regular_Italic"
 .small
@@ -28,16 +26,19 @@ i
 
 body
   font-size: $fontsize
+  @media only screen and (max-width: 500px)
+    font-size: $fontsize * 0.8
   background: $back
   color: $front
-  width: 730px
+  width: 700px
   max-width: 100%
   margin: 0 auto
   margin-bottom: $lineheight*3.0
   margin-top: $lineheight*3.0
+  @media only screen and (max-width: 500px)
+    margin-top: $lineheight
   line-height: $lineheight
   font-family: "Simplon_BP_Regular"
-  //+baseline-grid-background($lineheight, #DDD)
 
 strong
   font-family: "Simplon_BP_Medium"
@@ -47,6 +48,8 @@ em
 a
   color: $front!important
   text-decoration: none
+  padding-left: $side
+  padding-right: $side
 h1, h2
   font-family: "Simplon_BP_Medium"
 
@@ -66,12 +69,11 @@ nav
   font-size: $fontsize*0.75
   letter-spacing: 1px
   font-family: "Simplon_BP_Mono_Regular"
-  //background: #FFFF00
+  padding-right: 6px
   float: right
   ul
     display: inline
     padding: $lineheight 0
-    //background: #CCC
   li
     list-style: none
     float: left
@@ -86,15 +88,15 @@ nav
 
 
 section
-  padding-bottom: $lineheight * 2.0
+  padding-bottom: 0
   h2
     padding-top: $lineheight !important
-    width: 100%
+    @media only screen and (max-width: 600px)
+      padding-top: 0
     text-align: center
     font-family: "Simplon_BP_Mono_Regular"
 
 header, footer
-  //background: rgba(0,0,255,0.5)
   h1, h2
     float: left
     padding: 0 $side*2 0 0
@@ -103,20 +105,29 @@ header, footer
   h2
     font-family: "Simplon_BP_Regular"
 footer
-  padding-top: 5*$lineheight!important
+  padding-top: 3*$lineheight!important
 
-header, footer, article
+header, footer
   padding: $lineheight*2.0 $side
   line-height: $lineheight
+  @media only screen and (max-width: 600px)
+    padding: 0 $side
 
 article
+  padding: $lineheight*2.0 0
   clear: both
-  //background: rgba(200,100,100,0.5)
+  p
+    padding-left: $side
+    padding-right: $side
   h2
+    padding-left: $side
+    padding-right: $side
     font-family: "Simplon_BP_Medium"
     padding-top: $lineheight*2.0
   ul
     padding: 0
+    padding-left: $side
+    padding-right: $side
     margin: 0
   li
     list-style: none
@@ -137,6 +148,8 @@ img
   font-size: 0.75em
   padding: 0.75em 0
   font-family: "Simplon_BP_Mono_Regular"
+  padding-left: $side
+  padding-right: $side
 
 .press
   font-family: "Simplon_BP_Regular_Italic"
@@ -147,10 +160,6 @@ hr
   margin-top: 3*$lineheight
 .rewind
   margin-right: 10px
-
-
-
-
 
 
 *

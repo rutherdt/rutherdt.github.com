@@ -3,7 +3,7 @@ layout: post
 title: Teller
 label: Teller
 description: '500 Teller 8 Spiegel 2 Scharfschützen 2 Kameras'
-background: '#000000'
+background: '#2B2D2D'
 color: '#777'
 cover: 'img/500teller/ruth-erdt-500teller-0-700.jpg'
 ---

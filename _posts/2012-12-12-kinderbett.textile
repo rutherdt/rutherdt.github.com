@@ -2,7 +2,7 @@
 layout: post
 title: Kinderbett
 label: Kinderbett
-background: '##A9B1B1'
+background: '#808585'
 color: '#AAA'
 description: 'For my next child'
 cover: 'img/kinderbett/ruth-erdt-kinderbett-2-700.jpg'

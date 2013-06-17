@@ -3,8 +3,10 @@ layout: default
 title: Now
 description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 ---
+
 Notizen, gefunden zwischen Rechnungen und anderm Zeug. 
 Die meisten Zettel ohne Datum oder sonstigen Zusammenhang. (Heute 17.06.13)
+
 
 
 
@@ -43,7 +45,8 @@ Mein Neuer frisst viel weniger.
 
 
 Horror Vacui, die Vermeidung vor dem Nichts, der Horror vor dem Leeren.
-Die Natur will keine Leere. Es gibt ein wahnsinniges Bedürfnis der Menschen, die Wohnungen zu füllen.
+Die Natur will keine Leere. Es gibt ein wahnsinniges Bedürfnis der Menschen, 
+die Wohnungen zu füllen.
 Ich war draussen.
 Was ich gesehen hab hat mir nicht gefallen.
 

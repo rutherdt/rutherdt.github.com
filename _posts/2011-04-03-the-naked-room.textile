@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Darkroom
-label: Darkroom
+title: the naked house
+label: the naked house
 description: 'Working in a completely black room makes vision impossible, transforms the photographer into a blind person'
 cover: 'img/the-naked-house/ruth-erdt-the-naked-house-0-700.jpg'
 ---

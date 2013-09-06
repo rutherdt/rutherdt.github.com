@@ -1,3 +1,8 @@
+---
+layout: default
+title: Now
+description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
+---
 
 exhibition, sorry i'm late:
 
@@ -7,13 +12,6 @@ Finissage im Perla Mode message salon Zürich
 heute 6.September 2013 ab 6pm
 be welcome
 
-
-
----
-layout: default
-title: Now
-description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
----
 
 Berlin vor dem Supermarkt, junger Mann, laut:
 "Bin ich zehn Minuten weg und du fesselst dich du Idiot!

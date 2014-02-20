@@ -1,4 +1,3 @@
-Hey Lenny, what's up?
 
 
 
@@ -7,6 +6,11 @@ Hey Lenny, what's up?
 layout: default
 title: Now
 description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
+
+
+Hey Lenny, wann geht's weiter hier?
+
+
 ---
 
 exhibition, sorry i'm late:

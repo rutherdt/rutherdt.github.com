@@ -1,57 +1,65 @@
 ---
 layout: post
-title: Klebt an den Füssen
+title: 'Das stets sich selbst an den Füssen klebt'
 label: 'Das stets sich selbst an den Füssen klebt'
-background: '#808585'
-color: '#AAA'
+background: '#EEE'
+color: '#333'
 description: 'Das stets sich selbst an den Füssen klebt'
 cover: 'img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-20-700.jpg'
 ---
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-19-700.jpg(Ruth Erdt)!
-„Das Paar“, 2013
-Zwei Bilder Digital auf Fine Art Print, je 31x26cm, gerahmt
+
+p(fig medium). „Das Paar“, 2013
+  Zwei Bilder Digital auf Fine Art Print, je 31x26cm, gerahmt
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-9-700.jpg(Ruth Erdt)!
-„Der Zwischenraum“, 2008/ 20013
-Digital auf Fine Art Print, 1/3 (+2AP), 50x50cm, gerahmt
+
+p(fig medium). „Der Zwischenraum“, 2008/ 20013
+  Digital auf Fine Art Print, 1/3 (+2AP), 50x50cm, gerahmt
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-3-700.jpg(Ruth Erdt)!
- „Abbild Wattebett null bis unendlich“, 2013
- 32 Analog C-Prints, je 38x30,5 cm
+
+p(fig medium). „Abbild Wattebett null bis unendlich“, 2013
+  32 Analog C-Prints, je 38x30,5 cm
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-6-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-7-700.jpg(Ruth Erdt)!
-„Das Haus 1 + 2 “ 2013
-Digital auf Fine Art Print, 1/3 (+2AP), 72x102cm, gerahmt
+
+p(fig medium). „Das Haus 1 + 2 “ 2013
+  Digital auf Fine Art Print, 1/3 (+2AP), 72x102cm, gerahmt
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-8-700.jpg(Ruth Erdt)!
-„Die Adoption“, 2013
-Digital auf Fine Art Print, 1/3 (+2AP), 720x100cm, auf Alu
+
+p(fig medium). „Die Adoption“, 2013
+  Digital auf Fine Art Print, 1/3 (+2AP), 720x100cm, auf Alu
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-5-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-10-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-4-700.jpg(Ruth Erdt)!
-„Der Tisch“ 2013
-Mixed-Media
+
+p(fig medium). „Der Tisch“ 2013
+  Mixed-Media
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-18-700.jpg(Ruth Erdt)!
-„Das Gesicht“ , New York/ Zürich 1995/2013
-Digital auf Fine Art Print, 1/3 (+2AP), 61x89 cm, gerahmt
+
+p(fig medium). „Das Gesicht“ , New York/ Zürich 1995/2013
+  Digital auf Fine Art Print, 1/3 (+2AP), 61x89 cm, gerahmt
 
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-14-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-15-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-16-700.jpg(Ruth Erdt)!
-„Wattebett“, 2013
-Multimedia-Installation
+
+p(fig medium). „Wattebett“, 2013
+ Multimedia-Installation
 
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-11-700.jpg(Ruth Erdt)!
@@ -59,16 +67,16 @@ Multimedia-Installation
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-20-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-21-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-22-700.jpg(Ruth Erdt)!
-Installationen auf Tisch und im Schaufenster:
-"ohne Titel, verschiedene Grössen, Materialien" 2013
 
+p(fig medium). Installationen auf Tisch und im Schaufenster:
+  "ohne Titel, verschiedene Grössen, Materialien" 2013
 
-Ausstellungs-Ansichten
 
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-13-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-5-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-17-700.jpg(Ruth Erdt)!
 
+p(fig medium). Ausstellungs-Ansichten
 
 
 August/ September 2013 Message downtown  Salon Perla Mode Esther Eppstein
@@ -89,11 +97,12 @@ Esther Eppstein
 
 Anlässlich der Ausstellung erscheint die Publikation «Die Behauptung», Foto-Zine, 28 Seiten, s/w, message salon 2013.
 
-
-<video>
+<notextile>
+<video controls=”controls” style="width:100%">
   <source src="/video/apfel/rutherdt-apfel.webm" type='video/webm; codecs="vp8, vorbis"' />
   <source src="/video/apfel/rutherdt-apfel.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"' />
   <source src="/video/apfel/rutherdt-apfel.ogv" type='video/ogg; codecs="theora, vorbis"' />
 </video>
+</notextile>
 
 

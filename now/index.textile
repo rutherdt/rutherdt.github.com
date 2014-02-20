@@ -1,17 +1,26 @@
 
 
 
-
 ---
 layout: default
 title: Now
 description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 
 
-Hey Lenny, wann geht's weiter hier?
 
 
 ---
+
+Hey Lenny, wann geht's weiter hier?
+
+
+-------------
+
+
+
+
+
+
 
 exhibition, sorry i'm late:
 

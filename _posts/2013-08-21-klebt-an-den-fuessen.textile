@@ -60,9 +60,27 @@ p(fig medium). Installationen auf Tisch und im Schaufenster:
   "ohne Titel, verschiedene Grössen, Materialien" 2013
 
 
+
+
+<notextile>
+<video controls=”controls” style="width:100%;height:auto;" preload="none" poster="../img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-0-700.jpg">
+  <source src="/video/apfel/rutherdt-apfel-small.webm" type='video/webm' media="all and (max-width:900px)">
+  <source src="/video/apfel/rutherdt-apfel-small.mp4" type='video/mp4' media="all and (max-width:900px)">
+  <source src="/video/apfel/rutherdt-apfel-small.ogv" type='video/ogg' media="all and (max-width:900px)">
+  <source src="/video/apfel/rutherdt-apfel.webm" type='video/webm'/>
+  <source src="/video/apfel/rutherdt-apfel.mp4" type='video/mp4' />
+  <source src="/video/apfel/rutherdt-apfel.ogv" type='video/ogg' />
+</video>
+</notextile>
+
+
+
+
+
+ !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-17-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-13-700.jpg(Ruth Erdt)!
  !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-5-700.jpg(Ruth Erdt)!
- !/img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-17-700.jpg(Ruth Erdt)!
+ 
 
 p(fig medium). Ausstellungs-Ansichten
 
@@ -87,15 +105,5 @@ Esther Eppstein
 
 Anlässlich der Ausstellung erscheint die Publikation «Die Behauptung», Foto-Zine, 28 Seiten, s/w, message salon 2013.
 
-<notextile>
-<video controls=”controls” style="width:100%;height:auto;" preload="none" poster="../img/klebt-an-den-fuessen/ruth-erdt-klebt-an-den-fuessen-0-700.jpg">
-  <source src="/video/apfel/rutherdt-apfel-small.webm" type='video/webm' media="all and (max-width:900px)">
-  <source src="/video/apfel/rutherdt-apfel-small.mp4" type='video/mp4' media="all and (max-width:900px)">
-  <source src="/video/apfel/rutherdt-apfel-small.ogv" type='video/ogg' media="all and (max-width:900px)">
-  <source src="/video/apfel/rutherdt-apfel.webm" type='video/webm'/>
-  <source src="/video/apfel/rutherdt-apfel.mp4" type='video/mp4' />
-  <source src="/video/apfel/rutherdt-apfel.ogv" type='video/ogg' />
-</video>
-</notextile>
 
 

@@ -9,7 +9,7 @@ description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 
 feature 
 
-               * Eva Vuillemin *
+               * Eva Vuillemin 
 
 
 Meisterschülerausstellung

@@ -3,10 +3,10 @@ layout: default
 title: Now
 description: 'Ruth Erdt is half dutch and lives in Zürich and Berlin.'
 ---
-                Kunsthalle Bern
+                Kunsthalle Bern / 
 
-                SECRET / contexta collection
-                 13. – 15. November 2015
+                SECRET / contexta collection / 
+                13. – 15. November 2015
                 
 Vernissage 13. November 19 – 23 Uhr
                 
